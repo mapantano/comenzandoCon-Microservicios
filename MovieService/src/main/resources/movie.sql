@@ -1,0 +1,7 @@
+insert into movie(name, genre, url_stream) values ('Harry Potter', 'Fantasy', 'hp.com')
+insert into movie(name, genre, url_stream) values ('The Chronicles of Narnia', 'Fantasy', 'narnia.com')
+insert into movie(name, genre, url_stream) values ('Terminator', 'Action', 'terminator.com')
+insert into movie(name, genre, url_stream) values ('Impossible Mission', 'Action', 'im.com')
+insert into movie(name, genre, url_stream) values ('La La Land', 'Musical', 'lalaland.com')
+insert into movie(name, genre, url_stream) values ('Bohemian Rhapsody', 'Musical', 'Bohemian-Rhapsody.com')
+insert into movie(name, genre, url_stream) values ('Soul', 'Musical', 'soul.com')
